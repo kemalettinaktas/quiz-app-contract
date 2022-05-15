@@ -1,2 +1,11 @@
 node_modules
-neardev
+
+neardev/
+build/
+out/
+
+build/Release
+
+jspm_packages
+
+.npm
