@@ -1,6 +1,8 @@
-
+echo "Removing neardev directory"
 echo ---------------------------------------------------------
-echo "Building the contract (please wait...)"
+rm -r ./neardev
+echo ---------------------------------------------------------
+echo "Re-Building the contract (please wait...)"
 echo ---------------------------------------------------------
 yarn build:release
 echo ---------------------------------------------------------
