@@ -29,7 +29,7 @@ First clone this repository on your local machine. It's recommended using Linux,
  
   ` export CONTRACT= Contract_Account_ID `
  
-#### If you want to see the questions which are added already, you can use "dev-1650636031320-27308228145908" contract addrress.
+#### If you want to see the questions which are added already, you can interact with "dev-1650636031320-27308228145908" contract addrress.
  
 ### You must have a near wallet account (for ex. kemalettin.testnet) to add questions or answer questions via this contract. 
 #### If you have one, write;
